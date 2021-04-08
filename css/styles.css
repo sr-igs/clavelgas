@@ -1,0 +1,189 @@
+body{
+  font-family:'Roboto',sans-serif;
+  text-align:center;
+}
+
+h1{
+  font-family: 'Work Sans', sans-serif;
+}
+
+h2{
+  font-family: 'Work Sans', sans-serif;
+  font-weight:bold;
+}
+
+#title{
+  background-color:#f7f7f7
+;
+}
+
+.main-logo{
+  font-size:2rem;
+  color:#303841;
+  margin:auto;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.logo-banner-img{
+  width:15rem;
+}
+
+.main-logo-img{
+  width:3.5rem;
+}
+
+.logo-div{
+  text-align:center;
+  padding-left:5px;
+}
+
+.slogan-div{
+  background-color:#ff5722;
+  color:#eeeeee;
+  text-align:center;
+  padding:7% 7%;
+  font-family: 'Work Sans', sans-serif;
+  font-weight:bold;
+}
+
+.repsol-logo-div{
+  background-color:#00adb5;
+}
+
+.logo-img{
+  width:15rem;
+}
+
+/* Location */
+
+#location{
+  text-align:center;
+  padding-top:3%;
+  background-color: #eeeeee;
+  padding-bottom:3%;
+}
+
+.address-p{
+  color:slategrey;
+}
+
+.location-title{
+  padding-bottom:2%;
+}
+
+.location-title h2{
+  color:#ff5722;
+}
+
+#location h3{
+  font-weight:bold;
+  font-family:'Lato',sans-serif;
+}
+
+#location p{
+  margin:0 0;
+}
+
+.location-map{
+  padding-top:3%;
+  padding-bottom:3%;
+}
+
+.map{
+  width:600;
+  height:450;
+  border: 1px;
+  border-style:solid;
+}
+
+/* Municipios */
+#municipios{
+  color:#eeeeee;
+  text-align:center;
+  background-color:#00adb5;
+  padding: 3% 0%;
+}
+
+.municipio-info{
+  padding-top:2%;
+  color:#303841;
+  text-align:center;
+}
+
+.municipio-card{
+  width:22rem;
+  margin:auto;
+}
+
+.municipio-row{
+  padding-bottom:4%;
+}
+
+#municipios h5{
+  font-weight:bold;
+}
+
+.accordion-body{
+  color:#303841;
+}
+
+.accordion{
+  width:90%;
+  margin:auto;
+}
+
+/* Revision */
+.revision-div{
+  padding:3% 5%;
+  background-color: #eeeeee;
+}
+
+.revision-title{
+  padding-bottom: 2%;
+}
+
+.revision-card{
+  text-align:left;
+  width:21rem;
+  margin:auto;
+}
+
+
+.revision-card-title{
+  font-weight:bold;
+}
+.revision-col{
+  margin-bottom:2%;
+}
+
+/* Gasodomesticos */
+.gas-div{
+  background-color:#ff5722;
+  padding:3% 0;
+  color:white;
+}
+
+.gas-text-div{
+  width:80%;
+  margin:auto;
+  padding: 2% 0;
+}
+
+.gas-img{
+  width:30rem;
+}
+
+/* Footer */
+#footer{
+  background-color:#303841;
+  color:#eeeeee;
+  text-align:center;
+  padding:2% 0 1% 0;
+}
+
+/* Precios */
+
+.precios{
+  width:80%;
+  margin:auto;
+}
